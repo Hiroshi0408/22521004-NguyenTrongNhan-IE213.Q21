@@ -26,5 +26,3 @@
 ### Lab01 – MongoDB CRUD Operation
 
 Thiết lập môi trường MongoDB Atlas, kết nối MongoDB Compass và thực hành các lệnh CRUD cơ bản như insert, find, update, delete, aggregate.
-
-👉 Xem chi tiết tại [Lab01/README.md](./Lab01/README.md)
