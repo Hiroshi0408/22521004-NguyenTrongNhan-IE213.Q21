@@ -10,14 +10,14 @@
 
 ## Danh sách các Lab
 
-| Lab               | Chủ đề                   | Trạng thái    |
-| ----------------- | ------------------------ | ------------- |
-| [Lab01](./Lab01/) | MongoDB – CRUD Operation | ✅ Hoàn thành |
-| [Lab02](./Lab02/) | _(chưa cập nhật)_        | ⏳            |
-| [Lab03](./Lab03/) | _(chưa cập nhật)_        | ⏳            |
-| [Lab04](./Lab04/) | _(chưa cập nhật)_        | ⏳            |
-| [Lab05](./Lab05/) | _(chưa cập nhật)_        | ⏳            |
-| [Lab06](./Lab06/) | _(chưa cập nhật)_        | ⏳            |
+| Lab               | Chủ đề                                 | Trạng thái    |
+| ----------------- | -------------------------------------- | ------------- |
+| [Lab01](./Lab01/) | MongoDB – CRUD Operation               | ✅ Hoàn thành |
+| [Lab02](./Lab02/) | THIẾT LẬP BACKEND VỚI NODE & EXPRESSJS | ✅ Hoàn thành |
+| [Lab03](./Lab03/) | _(chưa cập nhật)_                      | ⏳            |
+| [Lab04](./Lab04/) | _(chưa cập nhật)_                      | ⏳            |
+| [Lab05](./Lab05/) | _(chưa cập nhật)_                      | ⏳            |
+| [Lab06](./Lab06/) | _(chưa cập nhật)_                      | ⏳            |
 
 ---
 
@@ -26,3 +26,7 @@
 ### Lab01 – MongoDB CRUD Operation
 
 Thiết lập môi trường MongoDB Atlas, kết nối MongoDB Compass và thực hành các lệnh CRUD cơ bản như insert, find, update, delete, aggregate.
+
+### Lab 02 – THIẾT LẬP BACKEND VỚI NODE & EXPRESSJS
+
+Thiết lập môi trường NodeJs, thực hành tạo các tệp tin server.js,index.js và api/movies.route.js
