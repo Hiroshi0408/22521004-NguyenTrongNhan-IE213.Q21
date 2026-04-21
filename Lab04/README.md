@@ -1,4 +1,4 @@
-# Lab 03 – Thiết lập frontend với reactjs
+# Lab 04 – Thiết lập frontend với reactjs
 
 Họ và tên: Nguyễn Trọng Nhân
 
