@@ -15,7 +15,7 @@
 | [Lab01](./Lab01/) | MongoDB – CRUD Operation               | ✅ Hoàn thành |
 | [Lab02](./Lab02/) | THIẾT LẬP BACKEND VỚI NODE & EXPRESSJS | ✅ Hoàn thành |
 | [Lab03](./Lab03/) | HOÀN THIỆN BACKEND ỨNG DỤNG MINH HỌA   | ✅ Hoàn thành |
-| [Lab04](./Lab04/) | _(chưa cập nhật)_                      | ⏳            |
+| [Lab04](./Lab04/) | Thiết lập frontend với reactjs         | ✅ Hoàn thành |
 | [Lab05](./Lab05/) | _(chưa cập nhật)_                      | ⏳            |
 | [Lab06](./Lab06/) | _(chưa cập nhật)_                      | ⏳            |
 
@@ -34,3 +34,7 @@ Thiết lập môi trường NodeJs, thực hành tạo các tệp tin server.js
 ### Lab 03 – HOÀN THIỆN BACKEND CHO ỨNG DỤNG MINH HỌA
 
 Thiết lập định tuyến, controller và DAO cho review trong ứng dụng minh họa.
+
+### Lab 04 – Thiết lập frontend với reactjs
+
+Thiết lập môi trường ReactJS, tạo các component cơ bản cho ứng dụng minh họa.
