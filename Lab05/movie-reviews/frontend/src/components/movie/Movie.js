@@ -43,34 +43,6 @@ const Movie = (props) => {
                 )}
                 <br />
                 <h2>Reviews</h2>
-                {movie.reviews.map((review, index) => (
-                  <div key={index} className="d-flex mb-3">
-                    <div className="flex-grow-1">
-                      <h5>
-                        {review.name + " reviewed on "} {moment(review.date).format("MM/DD/YYYY")}
-                      </h5>
-                      <p>{review.review}</p>
-                      {props.user && props.user.id === review.user_id && (
-                        <Row>
-                          <Col>
-                            <Link
-                              to={{
-                                pathname:
-                                  "/movies/" +
-                                  id +
-                                  "/review",
-                                state: { currentReview: review },
-                              }}
-                            >
-                              Edit
-                            </Link>
-                          </Col>
-                          <Col><Button variant="danger">Delete</Button></Col>
-                        </Row>
-                      )}
-                    </div>
-                  </div>
-                ))}
               </Card.Body>
             </Card>
           </Col>

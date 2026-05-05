@@ -16,7 +16,7 @@
 | [Lab02](./Lab02/) | THIẾT LẬP BACKEND VỚI NODE & EXPRESSJS | ✅ Hoàn thành |
 | [Lab03](./Lab03/) | HOÀN THIỆN BACKEND ỨNG DỤNG MINH HỌA   | ✅ Hoàn thành |
 | [Lab04](./Lab04/) | Thiết lập frontend với reactjs         | ✅ Hoàn thành |
-| [Lab05](./Lab05/) | _(chưa cập nhật)_                      | ⏳            |
+| [Lab05](./Lab05/) | Xây dựng frontend với reactjs          | ✅ Hoàn thành |
 | [Lab06](./Lab06/) | _(chưa cập nhật)_                      | ⏳            |
 
 ---
@@ -38,3 +38,7 @@ Thiết lập định tuyến, controller và DAO cho review trong ứng dụng 
 ### Lab 04 – Thiết lập frontend với reactjs
 
 Thiết lập môi trường ReactJS, tạo các component cơ bản cho ứng dụng minh họa.
+
+### Lab 05 – Xây dựng frontend với reactjs
+
+Xây dựng các component chi tiết cho ứng dụng minh họa, kết nối frontend với backend. Load movies từ backend, hiển thị danh sách movies, chi tiết movie và review.
