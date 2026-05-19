@@ -17,7 +17,7 @@
 | [Lab03](./Lab03/) | HOÀN THIỆN BACKEND ỨNG DỤNG MINH HỌA   | ✅ Hoàn thành |
 | [Lab04](./Lab04/) | Thiết lập frontend với reactjs         | ✅ Hoàn thành |
 | [Lab05](./Lab05/) | Xây dựng frontend với reactjs          | ✅ Hoàn thành |
-| [Lab06](./Lab06/) | _(chưa cập nhật)_                      | ⏳            |
+| [Lab06](./Lab06/) | Xây dựng frontend với ReactJS (tt)     | ✅ Hoàn thành |
 
 ---
 
@@ -42,3 +42,7 @@ Thiết lập môi trường ReactJS, tạo các component cơ bản cho ứng d
 ### Lab 05 – Xây dựng frontend với reactjs
 
 Xây dựng các component chi tiết cho ứng dụng minh họa, kết nối frontend với backend. Load movies từ backend, hiển thị danh sách movies, chi tiết movie và review.
+
+### Lab 06 – Xây dựng frontend với ReactJS (tt)
+
+Hoàn thiện chức năng đăng nhập, thêm/sửa/xóa review của người dùng đang đăng nhập, phân trang danh sách phim và tìm kiếm theo Title/Rating kết hợp phân trang.
